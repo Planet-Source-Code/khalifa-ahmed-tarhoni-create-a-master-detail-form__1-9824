@@ -1,0 +1,3 @@
+frmReservations = 0, 0, 485, 450, C, 110, 110, 665, 560, C
+bError = 110, 110, 595, 560, Z
+CDataObjects = 6, 192, 491, 642, C
